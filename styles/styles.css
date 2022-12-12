@@ -1,0 +1,42 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+th{
+    border: solid white 1px;
+}
+td{
+    border: solid white 1px;
+}
+table{
+    border-spacing: 0px;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    font-size: x-large;
+}
+#steel{
+color: gray;
+}
+#fairy{
+color: pink;
+}
+#dragon{
+    color: blueviolet;
+}
+#water{
+    color: aqua;
+}
+#elec{
+    color: yellow;
+}
+footer{
+    margin-top: 5%;
+    font-size: large;
+}
+h1{
+    font-size: xxx-large;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
